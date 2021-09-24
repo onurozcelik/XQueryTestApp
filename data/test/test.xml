@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Area id="KUS">
+  <Track id="M01T" showRestricted="true">
+
+  </Track>
+  <Track id="M02T">
+
+  </Track>
+  <Track id="001DT">
+
+  </Track>
+  <Signal id="T01" showRestricted="true">
+    
+  </Signal>
+  <Signal id="S01">
+
+  </Signal>
+  <Signal id="S01">
+
+  </Signal>
+</Area>
+
